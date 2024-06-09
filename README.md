@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari3614&label=Profile%20views&color=0e75b6&style=flat" alt="hari3614" /> </p>
 
-- 🔭 I’m currently working on [Campus-hub-App](https://github.com/Hari3614/Campus-hub-App)
-
 - 📫 How to reach me **hariprasad3614@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
