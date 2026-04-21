@@ -1,165 +1,268 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    HERO / ANIMATED HEADER                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Hari%20Prasad%20R&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%E2%9A%A1%20Mobile%20App%20Craftsman%20%E2%9A%A1%20UI%20Perfectionist&descAlignY=60&descSize=18" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Hari%20Prasad%20R&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Mobile%20App%20Developer%20%7C%20Flutter%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
-
+<!-- Animated Typing SVG - multiple lines cycle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9F5&center=true&vCenter=true&width=700&lines=Crafting+Beautiful+Cross-Platform+Apps+%F0%9F%92%99;Flutter+%7C+Dart+%7C+Firebase+%7C+Figma;Clean+UI+%E2%9C%A8+Smooth+UX+%F0%9F%9A%80;Always+Learning%2C+Always+Building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=800&color=00D9F5&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Hari+Prasad!;%F0%9F%9A%80+Flutter+Developer+from+India;%F0%9F%92%99+Turning+Ideas+into+Beautiful+Apps;%E2%9C%A8+Cross-Platform+%7C+iOS+%7C+Android;%F0%9F%8E%A8+Clean+Code+%C3%97+Smooth+UX" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=hari3614&label=Profile%20Views&color=00d9f5&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/hari3614?label=Followers&style=for-the-badge&color=00d9f5&labelColor=0D1117" alt="Followers" />
-<img src="https://img.shields.io/badge/Focus-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Focus" />
+<!-- Visitor counter + badges row -->
+<img src="https://komarev.com/ghpvc/?username=hari3614&label=Profile%20Views&color=00d9f5&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/hari3614?label=Followers&style=for-the-badge&color=00d9f5&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/hari3614?label=Stars&style=for-the-badge&color=00d9f5&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Coding-Since%202021-00d9f5?style=for-the-badge&labelColor=0D1117" />
+
+<br/><br/>
+
+<!-- Animated wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 </div>
 
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> &nbsp; About Me
 
-<img align="right" alt="coding" width="380" src="https://steamuserimages-a.akamaihd.net/ugc/90470964761468233/EBE96184DD5BD1AFD12E7550B87CE0E24D9772AB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
+<img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/90470964761468233/EBE96184DD5BD1AFD12E7550B87CE0E24D9772AB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
 
-```yaml
-name: Hari Prasad R
-role: Mobile App Developer
-stack: [Flutter, Dart, Firebase, HTML, CSS]
-focus: Cross-platform apps for iOS & Android
-currently_learning: Advanced Flutter patterns
-passionate_about: Clean UI × Smooth UX
-fun_fact: Good apps feel invisible —
-         you only notice them when broken.
-contact:
-  email: hariprasad3614@gmail.com
-  status: Open to collaborations 🚀
+```typescript
+const hari = {
+  pronouns: "he" | "him",
+  role: "Mobile App Developer",
+  location: "India 🇮🇳",
+  code: ["Dart", "C", "HTML", "CSS"],
+  tools: {
+    mobile: ["Flutter", "Firebase", "Hive DB"],
+    design: ["Figma", "Adobe XD"],
+    source: ["Git", "GitHub"]
+  },
+  currentFocus: "Advanced Flutter patterns",
+  philosophy: "Great apps feel invisible.",
+  funFact: "I debug with coffee ☕ and curiosity 🔍",
+  openTo: ["Collaborations 🤝", "Opportunities 💼"]
+};
 ```
 
-- 🚀 &nbsp; Building **beautiful, functional apps** that deliver seamless user experiences
-- 💙 &nbsp; Flutter is my weapon of choice — one codebase, every platform
-- 🎨 &nbsp; I care deeply about **pixel-perfect UI** and **thoughtful interactions**
-- 🌱 &nbsp; Currently leveling up in **state management & Firebase integrations**
-- 💼 &nbsp; Exploring **new opportunities** and **collaborative projects**
+- 🚀 &nbsp; **Currently**: Crafting cross-platform apps with **Flutter & Dart**
+- 💙 &nbsp; **Passionate about**: Clean architecture, pixel-perfect UIs & smooth animations
+- 🌱 &nbsp; **Learning**: Advanced state management & performance optimization
+- 💼 &nbsp; **Open to**: Freelance work, collaborations & new opportunities
+- 📫 &nbsp; **Reach me at**: `hariprasad3614@gmail.com`
+- ⚡ &nbsp; **Fun fact**: I believe the best code is the code no one has to think about
 
 <br clear="right"/>
 
----
+<!-- Animated wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## 🌐 Let's Connect
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CONNECT WITH ME                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🌐 &nbsp; Find Me Across The Internet
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hari-prasd-r-2b20862bb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://twitter.com/_hariiiee" target="_blank">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/_hariiiee" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.facebook.com/hari.hariprasad.1048" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/hari3614" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  &nbsp;
   <a href="mailto:hariprasad3614@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
+<!-- Animated wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## 🛠️ Tech Stack
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TECH ARSENAL                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ &nbsp; My Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00D9F5&center=true&vCenter=true&width=500&lines=Tools+I+work+with+daily+%E2%9A%A1;Always+learning+something+new+%F0%9F%93%9A" alt="subtitle" />
 
-### 📱 Frameworks & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Hive_DB-FFC900?style=for-the-badge&logo=apache&logoColor=black"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+<br/><br/>
 
-### 🎨 Design & Tools
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-</p>
+### 💻 &nbsp; Languages & Core
+
+<img src="https://skillicons.dev/icons?i=dart,c,html,css,js&theme=dark&perline=5" />
+
+### 📱 &nbsp; Frameworks & Platforms
+
+<img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio,gradle&theme=dark&perline=4" />
+
+### 🎨 &nbsp; Design & Productivity
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,notion&theme=dark&perline=4" />
+
+### ⚙️ &nbsp; Version Control & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" />
 
 </div>
 
----
+<!-- Animated wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## 📊 GitHub Stats
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 &nbsp; The Numbers Don't Lie
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hari3614&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9f5&icon_color=00d9f5&text_color=ffffff" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hari3614&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9F5&fire=00D9F5&currStreakLabel=00D9F5" height="180"/>
+<table>
+<tr>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=hari3614&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9f5&icon_color=00d9f5&text_color=ffffff&include_all_commits=true&count_private=true" />
+</td>
+<td width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari3614&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9F5&fire=00D9F5&currStreakLabel=00D9F5&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=b0b0b0" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari3614&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9f5&text_color=ffffff&langs_count=8" />
+</td>
+<td width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hari3614&theme=tokyonight&utcOffset=5.5" />
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari3614&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9f5&text_color=ffffff&langs_count=8" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=hari3614&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9f5&text_color=ffffff" height="180"/>
+<!-- Profile summary cards - full width row -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hari3614&theme=tokyonight" width="100%" />
 
 </div>
 
----
+<!-- Animated wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## 🏆 GitHub Trophies
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        TROPHIES                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏆 &nbsp; Trophy Cabinet
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hari3614&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hari3614&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  </a>
 </div>
 
----
+<!-- Animated wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## 📈 Contribution Graph
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ACTIVITY GRAPH                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📈 &nbsp; Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hari3614&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9f5&line=00d9f5&point=ffffff&area=true&area_color=00d9f5"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hari3614&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9f5&line=00d9f5&point=ffffff&area=true&area_color=00d9f5" width="100%" />
 </div>
 
----
+<!-- Animated wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## 🐍 Watch My Contributions Get Eaten
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    SNAKE CONTRIBUTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🐍 &nbsp; Watch My Contributions Get Devoured
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
----
+<!-- Animated wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## 💭 Dev Quote
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CURRENT VIBE                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 💭 &nbsp; Current Vibe
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
----
+<br/>
+
+<details align="center">
+  <summary><b>🎯 &nbsp; What I'm Up To Right Now (click to expand)</b></summary>
+  <br/>
+
+| &nbsp; | &nbsp; |
+|---|---|
+| 🔭 **Working on** | Cross-platform mobile apps with Flutter |
+| 🌱 **Learning** | Advanced state management (Riverpod, Bloc) |
+| 👯 **Collaborating on** | Open-source Flutter packages |
+| 🤔 **Looking for help with** | iOS TestFlight distribution tricks |
+| 💬 **Ask me about** | Flutter, Dart, Firebase, Mobile UI/UX |
+| 📫 **Reach me** | hariprasad3614@gmail.com |
+| 😄 **Pronouns** | He/Him |
+| ⚡ **Fun fact** | I once debugged a layout issue for 6 hours — it was a missing semicolon |
+
+</details>
+
+<br/>
+
+<!-- Animated wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        FOOTER                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### ⭐ If you like what I do, drop a star on my repos — it means a lot!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9F5&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%99;Don't+forget+to+%E2%AD%90+my+repos!;Let's+build+something+amazing+together+%F0%9F%9A%80" alt="thanks" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+<br/><br/>
 
-<i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20%26%20Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Powered%20by-%E2%98%95%20Coffee-6F4E37?style=for-the-badge" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer"/>
 
 </div>
