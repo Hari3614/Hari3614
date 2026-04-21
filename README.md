@@ -30,36 +30,136 @@
 <!--                        ABOUT ME                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> &nbsp; About Me
+## 🎮 &nbsp; Developer Profile — `hari_prasad.exe`
 
-<img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/90470964761468233/EBE96184DD5BD1AFD12E7550B87CE0E24D9772AB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
+<table align="center">
+<tr>
+<td width="58%" valign="top">
 
-```typescript
-const hari = {
-  pronouns: "he" | "him",
-  role: "Mobile App Developer",
-  location: "India 🇮🇳",
-  code: ["Dart", "C", "HTML", "CSS"],
-  tools: {
-    mobile: ["Flutter", "Firebase", "Hive DB"],
-    design: ["Figma", "Adobe XD"],
-    source: ["Git", "GitHub"]
-  },
-  currentFocus: "Advanced Flutter patterns",
-  philosophy: "Great apps feel invisible.",
-  funFact: "I debug with coffee ☕ and curiosity 🔍",
-  openTo: ["Collaborations 🤝", "Opportunities 💼"]
-};
+### 🖥️ &nbsp; Live Terminal
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=500&color=00D9F5&width=520&height=260&lines=%24+whoami;%3E+hari_prasad_r+%F0%9F%91%8B;%24+cat+.%2Fabout%2Fme.txt;%3E+Flutter+Dev+from+India+%F0%9F%87%AE%F0%9F%87%B3;%3E+Building+beautiful+mobile+apps;%24+ls+.%2Fskills%2F;%3E+flutter+dart+firebase+figma;%24+status+--current;%3E+Coding+%E2%9A%A1+Caffeinated+%E2%98%95;%24+echo+%22let's+connect%22;%3E+hariprasad3614%40gmail.com;%24+_" alt="Terminal" />
+
+<br/>
+
+### 🎯 &nbsp; Active Quests
+
+- [x] Ship mobile apps to the App Store 🍎
+- [x] Master Flutter animations 💫
+- [ ] Reach a 100-day commit streak 🔥
+- [ ] Publish an open-source Flutter package 📦
+- [ ] Learn Rust for fun 🦀
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<img alt="coding" width="370" src="https://steamuserimages-a.akamaihd.net/ugc/90470964761468233/EBE96184DD5BD1AFD12E7550B87CE0E24D9772AB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
+
+<br/><br/>
+
+<table>
+<tr><td>📍 <b>Location</b></td><td>India 🇮🇳</td></tr>
+<tr><td>💼 <b>Role</b></td><td>Mobile App Dev</td></tr>
+<tr><td>🎯 <b>XP</b></td><td>3+ years</td></tr>
+<tr><td>☕ <b>Fuel</b></td><td>Coffee + Curiosity</td></tr>
+<tr><td>💬 <b>Pronouns</b></td><td>he / him</td></tr>
+<tr><td>🌐 <b>Language</b></td><td>EN · ML · HI</td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ⚡ &nbsp; Skill Tree — Leveling Up Daily
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 &nbsp; Core Skills**
+
+```text
+Flutter      ▰▰▰▰▰▰▰▰▰▱  Lv.90
+Dart         ▰▰▰▰▰▰▰▰▰▱  Lv.88
+Mobile UI    ▰▰▰▰▰▰▰▰▱▱  Lv.82
+Firebase     ▰▰▰▰▰▰▰▰▱▱  Lv.80
+REST API     ▰▰▰▰▰▰▰▱▱▱  Lv.75
 ```
 
-- 🚀 &nbsp; **Currently**: Crafting cross-platform apps with **Flutter & Dart**
-- 💙 &nbsp; **Passionate about**: Clean architecture, pixel-perfect UIs & smooth animations
-- 🌱 &nbsp; **Learning**: Advanced state management & performance optimization
-- 💼 &nbsp; **Open to**: Freelance work, collaborations & new opportunities
-- 📫 &nbsp; **Reach me at**: `hariprasad3614@gmail.com`
-- ⚡ &nbsp; **Fun fact**: I believe the best code is the code no one has to think about
+</td>
+<td width="50%" valign="top">
 
-<br clear="right"/>
+**🛠️ &nbsp; Support Skills**
+
+```text
+Git / GitHub ▰▰▰▰▰▰▰▰▱▱  Lv.80
+Figma        ▰▰▰▰▰▰▰▱▱▱  Lv.70
+Hive DB      ▰▰▰▰▰▰▰▱▱▱  Lv.70
+HTML / CSS   ▰▰▰▰▰▰▱▱▱▱  Lv.65
+C (basics)   ▰▰▰▰▰▱▱▱▱▱  Lv.55
+```
+
+</td>
+</tr>
+</table>
+
+### 🗡️ &nbsp; Special Abilities
+
+<p align="center">
+<img src="https://img.shields.io/badge/Cross--Platform%20Strike-ATK%2095-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Clean%20UI%20Combo-ATK%2088-00d9f5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Debug%20Mode-ATK%2092-FFA116?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Coffee%20Boost-PASSIVE-6F4E37?style=for-the-badge" />
+</p>
+
+### 📜 &nbsp; Philosophy
+
+> *"Great apps feel invisible — you only notice them when they're broken."*
+
+<br/>
+
+<details>
+<summary><b>🎁 &nbsp; ✨ Click for Secret Easter Egg ✨</b></summary>
+
+<br/>
+
+```text
+  ╔══════════════════════════════════════════╗
+  ║  🎮  ACHIEVEMENT UNLOCKED                ║
+  ║      "Curious Visitor"                   ║
+  ║      +100 XP 🌟                          ║
+  ╠══════════════════════════════════════════╣
+  ║  Thanks for exploring my profile!        ║
+  ║                                          ║
+  ║  If you're reading this, you've just     ║
+  ║  unlocked the secret dev handshake 🤝    ║
+  ║                                          ║
+  ║  Drop me a hello at:                     ║
+  ║  📧  hariprasad3614@gmail.com            ║
+  ║                                          ║
+  ║  May your code compile on the first try  ║
+  ║  today. 🚀                               ║
+  ╚══════════════════════════════════════════╝
+```
+
+**🎲 &nbsp; Random dev joke for you:**
+
+> Why do programmers prefer dark mode?  
+> Because light attracts bugs. 🐛
+
+**🎯 &nbsp; Fun stats about me:**
+
+| &nbsp; | &nbsp; |
+|---|---|
+| ☕ Cups of coffee this week | `∞` |
+| 🐛 Bugs squashed this month | `427` |
+| ⌨️ Keystrokes today | `calculating...` |
+| 🎧 Lines of code written while listening to music | `99.9%` |
+| 💤 Hours of sleep while debugging | `what sleep?` |
+
+</details>
 
 <!-- Animated wave divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
